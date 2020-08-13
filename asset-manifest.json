@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ishubs/immigrationDev/static/css/main.a612d558.chunk.css",
+    "main.js": "/ishubs/immigrationDev/static/js/main.23c57629.chunk.js",
+    "main.js.map": "/ishubs/immigrationDev/static/js/main.23c57629.chunk.js.map",
+    "runtime-main.js": "/ishubs/immigrationDev/static/js/runtime-main.26b3aea5.js",
+    "runtime-main.js.map": "/ishubs/immigrationDev/static/js/runtime-main.26b3aea5.js.map",
+    "static/css/2.9a63948f.chunk.css": "/ishubs/immigrationDev/static/css/2.9a63948f.chunk.css",
+    "static/js/2.0f0f85df.chunk.js": "/ishubs/immigrationDev/static/js/2.0f0f85df.chunk.js",
+    "static/js/2.0f0f85df.chunk.js.map": "/ishubs/immigrationDev/static/js/2.0f0f85df.chunk.js.map",
+    "index.html": "/ishubs/immigrationDev/index.html",
+    "precache-manifest.897bad9d83bdb5af5d8f7e2c8d61364e.js": "/ishubs/immigrationDev/precache-manifest.897bad9d83bdb5af5d8f7e2c8d61364e.js",
+    "service-worker.js": "/ishubs/immigrationDev/service-worker.js",
+    "static/css/2.9a63948f.chunk.css.map": "/ishubs/immigrationDev/static/css/2.9a63948f.chunk.css.map",
+    "static/css/main.a612d558.chunk.css.map": "/ishubs/immigrationDev/static/css/main.a612d558.chunk.css.map",
+    "static/media/Maya-avatar.jpg": "/ishubs/immigrationDev/static/media/Maya-avatar.45e6b951.jpg",
+    "static/media/mdb.css": "/ishubs/immigrationDev/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/ishubs/immigrationDev/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.png": "/ishubs/immigrationDev/static/media/logo.7f6de6ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b3aea5.js",
+    "static/css/2.9a63948f.chunk.css",
+    "static/js/2.0f0f85df.chunk.js",
+    "static/css/main.a612d558.chunk.css",
+    "static/js/main.23c57629.chunk.js"
+  ]
+}
