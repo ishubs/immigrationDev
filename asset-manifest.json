@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/immigrationDev/static/css/main.a612d558.chunk.css",
-    "main.js": "/immigrationDev/static/js/main.de0dd8ca.chunk.js",
-    "main.js.map": "/immigrationDev/static/js/main.de0dd8ca.chunk.js.map",
+    "main.js": "/immigrationDev/static/js/main.e3989a22.chunk.js",
+    "main.js.map": "/immigrationDev/static/js/main.e3989a22.chunk.js.map",
     "runtime-main.js": "/immigrationDev/static/js/runtime-main.9a4ab38c.js",
     "runtime-main.js.map": "/immigrationDev/static/js/runtime-main.9a4ab38c.js.map",
     "static/css/2.21850855.chunk.css": "/immigrationDev/static/css/2.21850855.chunk.css",
-    "static/js/2.20c73b5b.chunk.js": "/immigrationDev/static/js/2.20c73b5b.chunk.js",
-    "static/js/2.20c73b5b.chunk.js.map": "/immigrationDev/static/js/2.20c73b5b.chunk.js.map",
+    "static/js/2.16b8109d.chunk.js": "/immigrationDev/static/js/2.16b8109d.chunk.js",
+    "static/js/2.16b8109d.chunk.js.map": "/immigrationDev/static/js/2.16b8109d.chunk.js.map",
     "index.html": "/immigrationDev/index.html",
-    "precache-manifest.1770b27ea031a8617a962e6fa8d3d618.js": "/immigrationDev/precache-manifest.1770b27ea031a8617a962e6fa8d3d618.js",
+    "precache-manifest.52868e99d2f68ad05482c5d54e3e28ed.js": "/immigrationDev/precache-manifest.52868e99d2f68ad05482c5d54e3e28ed.js",
     "service-worker.js": "/immigrationDev/service-worker.js",
     "static/css/2.21850855.chunk.css.map": "/immigrationDev/static/css/2.21850855.chunk.css.map",
     "static/css/main.a612d558.chunk.css.map": "/immigrationDev/static/css/main.a612d558.chunk.css.map",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a4ab38c.js",
     "static/css/2.21850855.chunk.css",
-    "static/js/2.20c73b5b.chunk.js",
+    "static/js/2.16b8109d.chunk.js",
     "static/css/main.a612d558.chunk.css",
-    "static/js/main.de0dd8ca.chunk.js"
+    "static/js/main.e3989a22.chunk.js"
   ]
 }
